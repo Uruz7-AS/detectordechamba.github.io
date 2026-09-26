@@ -1,6 +1,6 @@
 //variables
 const body = document.body;
-const audio = new Audio('AUDIOS/SI.mp3');
+const audio = new Audio('AUDIOS/YES.mp3');
 const audioNo = new Audio('AUDIOS/NO.mp3')
 
 function detectionMethod () {
@@ -15,7 +15,7 @@ function detectionMethod () {
         audio.play();
         Swal.fire({
             title: "Lo hace por tu bien....",
-            imageUrl: "https://i.ibb.co/93CFQv5/shirmp-Yes.jpg",
+            imageUrl: "IMG/YES.jpg",
             imageWidth: 500,
             imageHeight: 400,
             imageAlt: "Custom image",
