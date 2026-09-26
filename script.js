@@ -5,7 +5,7 @@ const audioNo = new Audio('AUDIOS/NO.mp3')
 
 function detectionMethod () {
     Swal.fire({
-        title: 'Tu mami se prostituye',
+        title: '¿Tu mami se prostituye?',
         showDenyButton: true,
         confirmButtonText: 'Claro que si',
         denyButtonText:'ÑO -//w//-',
