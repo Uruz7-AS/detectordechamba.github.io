@@ -1,7 +1,7 @@
 //variables
 const body = document.body;
-const audio = new Audio('sounds/risa.mp3');
-const audioNo = new Audio('sounds/nosound.mp3')
+const audio = new Audio('AUDIOS/SI.mp3');
+const audioNo = new Audio('AUDIOS/NO.mp3')
 
 function detectionMethod () {
     Swal.fire({
